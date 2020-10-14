@@ -1,9 +1,11 @@
 # Titanic-Survival-Prediction
 It is a simple prediction model which predict whether the passenger is survived or not.
 
+
 Process in Titanic-Survival-Prediction
 1.LOAD TRAIN AND TEST DATA
  a.Removing data with nan in Embarked
+ 
  b.Selecting Features
  c.Barplot between Sex and Survived
  d.Barplot between Embarked and Survived
